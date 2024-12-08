@@ -1,6 +1,5 @@
-## NOT MAINTAINED
 
-This project is no longer maintained.
+The root project is no longer maintained.
 
 
 ## Forks and continuation of this project
